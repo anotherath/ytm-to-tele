@@ -1,0 +1,13 @@
+.env
+__pycache__/
+*.pyc
+downloads/
+.DS_Store
+.venv/
+env/
+cookies.txt
+*.txt
+!requirements.txt
+!README.md
+test_output.log
+*.log
